@@ -20,5 +20,5 @@ Jaime Alejandro Rios
 #### Blocks Animation :leaves:
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
 
-#### Min-Width Max-width
+#### Min-Width Max-width :crystal_ball:
 [View CodePen](https://codepen.io/jaiimeriios/pen/OrJvao)
