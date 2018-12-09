@@ -1,0 +1,52 @@
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden
+    background-color: #000;
+  }
+
+  ul {
+    display: flex;
+  }
+  ul li {
+    transition: 0.5s all ease;
+    width: 20px;
+    height: 25px;
+    list-style-type: none;
+    margin: 10px;
+    animation: blocks 1.5s infinite;
+  }
+  ul li:nth-child(1) {
+    background-color: #f4b9d5;
+    animation-delay: 100ms;
+  }
+  ul li:nth-child(2) {
+    background-color: #cea1c6;
+    animation-delay: 200ms;
+  }
+  ul li:nth-child(3) {
+    background-color: #9e81b3;
+    animation-delay: 300ms;
+  }
+  ul li:nth-child(4) {
+    background-color: #736cc7;
+    animation-delay: 400ms;
+  }
+  ul li:nth-child(5) {
+    background-color: #5a5599;
+    animation-delay: 500ms;
+  }
+
+  @keyframes blocks {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-15px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }

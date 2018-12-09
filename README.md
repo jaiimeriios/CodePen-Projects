@@ -16,3 +16,6 @@ Jaime Alejandro Rios
 
 #### Animated Rotating Border
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
+
+#### Blocks Animation
+[View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
