@@ -1,0 +1,43 @@
+/*Border Animation*/
+
+body {
+  background-color: #265369;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  color: #fffbf1;
+  font-size: 80px;
+  text-decoration: none;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  text-shadow: 0 20px 25px #2e2e2e;
+}
+h1:after {
+  content: "";
+  padding: 0.8em 0.4em;
+  border: 15px solid #4a819c;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  display: block;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: -1;
+  animation: 5s infinite alternate ease-in-out movethis;
+  }
+p{
+color: #fffbf1
+}
+
+
+@keyframes movethis {
+  0 {
+    transform: translateX(-50%) translateY(-50%) rotate(0deg);
+  }
+  100% {
+    transform: translateX(-50%) translateY(-50%) rotate(60deg);
+  }
+}
