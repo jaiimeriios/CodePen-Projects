@@ -13,4 +13,5 @@ Jaime Alejandro Rios
 
 #### Animated heading
 [View Project](https://jaiimeriios.github.io/CodePen-Projects/animated-heading/)
+
 [View CodePen](https://codepen.io/jaiimeriios/pen/LBRWRx)
