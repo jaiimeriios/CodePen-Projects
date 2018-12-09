@@ -19,3 +19,6 @@ Jaime Alejandro Rios
 
 #### Blocks Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
+
+#### Min-Width Max-width
+[View CodePen](https://codepen.io/jaiimeriios/pen/OrJvao)
