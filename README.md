@@ -17,7 +17,7 @@ Jaime Alejandro Rios
 #### Animated Rotating Border :fire:
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
 
-#### Blocks Animation
+#### Blocks Animation :leaves:
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
 
 #### Min-Width Max-width
