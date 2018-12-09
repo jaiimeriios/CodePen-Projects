@@ -11,7 +11,7 @@ Jaime Alejandro Rios
 
 ### projects
 
-#### Animated heading
+#### Animated heading :sparkles:
 [View CodePen](https://codepen.io/jaiimeriios/pen/LBRWRx)
 
 #### Animated Rotating Border
