@@ -14,7 +14,7 @@ Jaime Alejandro Rios
 #### Animated heading :sparkles:
 [View CodePen](https://codepen.io/jaiimeriios/pen/LBRWRx)
 
-#### Animated Rotating Border
+#### Animated Rotating Border :fire:
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
 
 #### Blocks Animation

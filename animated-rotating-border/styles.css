@@ -1,6 +1,8 @@
-/*Border Animation*/
+/* Border Animation */
 
 body {
+  margin: 0;
+  padding: 0;
   background-color: #265369;
   font-family: Helvetica, sans-serif;
 }
