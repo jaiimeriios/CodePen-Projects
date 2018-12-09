@@ -14,5 +14,5 @@ Jaime Alejandro Rios
 #### Animated heading
 [View CodePen](https://codepen.io/jaiimeriios/pen/LBRWRx)
 
-####Animated Rotating Border
+#### Animated Rotating Border
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
