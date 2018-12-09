@@ -6,6 +6,7 @@ This is a collection for my projects on CodePen
 Jaime Alejandro Rios
 
 *Website* - [jaiimeriios.com](http://jaiimeriios.com)
+
 *CodePen* - [jaiimeriios](https://codepen.io/jaiimeriios/)
 
 
