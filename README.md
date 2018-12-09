@@ -1,7 +1,7 @@
 # CodePen Projects
 This is a collection for my projects on CodePen
 
-## Author
+### Author
 
 Jaime Alejandro Rios
 
@@ -9,7 +9,7 @@ Jaime Alejandro Rios
 
 *CodePen* - [/jaiimeriios](https://codepen.io/jaiimeriios/)
 
-### projects
+## projects
 
 #### Animated heading :sparkles:
 [View CodePen](https://codepen.io/jaiimeriios/pen/LBRWRx)
@@ -22,3 +22,6 @@ Jaime Alejandro Rios
 
 #### Min-Width Max-width :crystal_ball:
 [View CodePen](https://codepen.io/jaiimeriios/pen/OrJvao)
+
+#### Modal svg :star2:
+[View CodePen](https://codepen.io/jaiimeriios/pen/wxzJgE)
