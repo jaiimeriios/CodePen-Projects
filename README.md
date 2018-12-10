@@ -25,3 +25,6 @@ Jaime Alejandro Rios
 
 #### Modal svg :star2:
 [View CodePen](https://codepen.io/jaiimeriios/pen/wxzJgE)
+
+#### Parallax Header CSS :metal:
+[view CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
