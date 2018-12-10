@@ -102,7 +102,6 @@ jQuery(document).ready(function(){
 
 			// Failure
 			return curveY(t2);
-
 		};
 	};
 });
