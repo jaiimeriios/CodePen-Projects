@@ -27,4 +27,7 @@ Jaime Alejandro Rios
 [View CodePen](https://codepen.io/jaiimeriios/pen/wxzJgE)
 
 #### Parallax Header CSS :metal:
-[view CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
+[View CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
+
+#### Sticky Navigation With Sliding Tabs :cyclone:
+[View CodePen](https://codepen.io/jaiimeriios/pen/bjBBQV)
