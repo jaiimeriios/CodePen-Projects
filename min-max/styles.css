@@ -8,7 +8,6 @@ body {
   margin: 10% auto 0 auto;
 }
 
-/* Font General */
 #min h2, #max h2 {
   margin: auto;
   color: #fff;
@@ -26,7 +25,6 @@ body {
 #min h2 {
   font-size: 1.5em;
 }
-
 
 @media only screen and (min-width: 500px) {
   #min {
