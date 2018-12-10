@@ -52,6 +52,7 @@ class StickyNavigation {
 				newCurrentTab = $(this);
 			}
 		});
+
 		if(this.currentId != newCurrentId || this.currentId === null) {
 			this.currentId = newCurrentId;
 			this.currentTab = newCurrentTab;
