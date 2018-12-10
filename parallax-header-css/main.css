@@ -1,4 +1,4 @@
-html{
+html {
   height: 100%;
   overflow: hidden;
 }
@@ -60,7 +60,7 @@ section {
   background-color: #003f71;
 }
 
-section #lorem{
+section #lorem {
   margin: 0 auto;
   width: 95%;
   max-width: 1000px;
