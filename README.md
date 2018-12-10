@@ -11,23 +11,23 @@ Jaime Alejandro Rios
 
 ## projects
 
-#### Animated heading :sparkles:
+#### :sparkles: Animated heading
 [View CodePen](https://codepen.io/jaiimeriios/pen/LBRWRx)
 
-#### Animated Rotating Border :fire:
+#### :fire: Animated Rotating Border
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
 
-#### Blocks Animation :leaves:
+#### :leaves: Blocks Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
 
-#### Min-Width Max-width :crystal_ball:
+#### :crystal_ball: Min-Width Max-width
 [View CodePen](https://codepen.io/jaiimeriios/pen/OrJvao)
 
-#### Modal svg :star2:
+#### :star2: Modal svg
 [View CodePen](https://codepen.io/jaiimeriios/pen/wxzJgE)
 
-#### Parallax Header CSS :metal:
+#### :metal: Parallax Header CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
 
-#### Sticky Navigation With Sliding Tabs :cyclone:
+#### :cyclone: Sticky Navigation With Sliding Tabs
 [View CodePen](https://codepen.io/jaiimeriios/pen/bjBBQV)
