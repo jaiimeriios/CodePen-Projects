@@ -7,9 +7,9 @@ body {
   color: #fff;
   margin: 0;
   padding: 0;
+  height: 100%;
   perspective: 1px;
   transform-style: preserve-3d;
-  height: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
 }
