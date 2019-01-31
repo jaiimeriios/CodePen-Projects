@@ -20,7 +20,7 @@ Jaime Alejandro Rios
 
 
 
-#### :: Content Filter CSS
+#### :sunrise_over_mountains: Content Filter CSS
 [View CodePen](https://codepen.io/jaiimeriios/)
 
 
