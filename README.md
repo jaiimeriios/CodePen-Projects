@@ -28,6 +28,3 @@ Jaime Alejandro Rios
 
 #### :metal: Parallax Header CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
-
-#### :cyclone: Sticky Navigation With Sliding Tabs
-[View CodePen](https://codepen.io/jaiimeriios/pen/bjBBQV)
