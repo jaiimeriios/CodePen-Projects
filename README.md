@@ -17,14 +17,8 @@ Jaime Alejandro Rios
 #### :fire: Animated Rotating Border
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
 
-
-
-
 #### :sunrise_over_mountains: Content Filter CSS
-[View CodePen](https://codepen.io/jaiimeriios/)
-
-
-
+[View CodePen](https://codepen.io/jaiimeriios/pen/qgRezE)
 
 #### :leaves: Blocks Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
