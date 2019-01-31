@@ -17,6 +17,15 @@ Jaime Alejandro Rios
 #### :fire: Animated Rotating Border
 [View CodePen](https://codepen.io/jaiimeriios/pen/djpvoN)
 
+
+
+
+#### :: Content Filter CSS
+[View CodePen](https://codepen.io/jaiimeriios/)
+
+
+
+
 #### :leaves: Blocks Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
 
