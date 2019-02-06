@@ -31,3 +31,6 @@ Jaime Alejandro Rios
 
 #### :metal: Parallax Header CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
+
+#### :seedling: Scroll Line Indicator
+[View CodePen](https://codepen.io/jaiimeriios/pen/)

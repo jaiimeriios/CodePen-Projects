@@ -1,0 +1,39 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+.header-proper {
+  width: 80%;
+  margin: 0 auto;
+}
+.header-proper .logo {
+  font-family: "HelveticaNeueBlack", "HelveticaNeue-Black", "Helvetica Neue Black", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosBold', "Arial Black", sans-serif;
+  font-weight: bold;
+}
+.header-proper .logo .blue {
+  color: blue;
+}
+
+.scroll-line {
+  height: 2px;
+  margin-bottom: -2px;
+  background: blue;
+  width: 0%;
+}
+
+.content {
+  padding: 100px 0;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.headline {
+  font-size: 60px;
+  line-height: 66px;
+}
