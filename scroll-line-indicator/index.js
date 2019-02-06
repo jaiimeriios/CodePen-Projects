@@ -1,5 +1,5 @@
 
-//capture scroll any percentage
+//capture scroll percentage
 
 $(window).scroll(function(){
     
