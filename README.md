@@ -30,7 +30,7 @@ Jaime Alejandro Rios
 [View CodePen](https://codepen.io/jaiimeriios/pen/wxzJgE)
 
 #### :hotsprings: Page Preloader
-[View CodePen](https://codepen.io/jaiimeriios/pen/)
+[View CodePen](https://codepen.io/jaiimeriios/pen/dadzVG)
 
 #### :metal: Parallax Header CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
