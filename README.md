@@ -29,6 +29,9 @@ Jaime Alejandro Rios
 #### :star2: Modal svg
 [View CodePen](https://codepen.io/jaiimeriios/pen/wxzJgE)
 
+#### :hotsprings: Page Preloader
+[View CodePen](https://codepen.io/jaiimeriios/pen/)
+
 #### :metal: Parallax Header CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/EpgWwy)
 
