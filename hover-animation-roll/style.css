@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
+body {
+  background-color: #ecf0f1;
+  font-family: 'Lato', sans-serif;
+  overflow: hidden;
+  background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4"%3E%3Cpath fill="%239C92AC" fill-opacity="0.4" d="M1 3h1v1H1V3zm2-2h1v1H3V1z"%3E%3C/path%3E%3C/svg%3E');
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 90vh;
+}
+
+.circle {
+  width: 30%;
+  height: 30vw;
+  background-image: linear-gradient(135deg, #ABDCFF 10%, #0396FF 100%);
+  transition: 1s;
+}
+.circle:hover {
+  border-radius: 50%;
+  transform: rotate(360deg);
+}
+
+.profile {
+  color: #555;
+  position: absolute;
+  top: .5rem;
+  left: 1.5rem;
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+.profile .fa-codepen {
+  margin-right: .5rem;
+}
+.profile .author a:link,
+.profile .author a:visited {
+  color: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.footer {
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #cdd1d6;
+  background-color: #dee1e5;
+  font-weight: 300;
+  color: #555;
+  position: relative;
+}
+.footer span {
+  margin-left: 2px;
+  font-weight: 400;
+  cursor: pointer;
+}
+.footer span a:link,
+.footer span a:visited {
+  color: currentColor;
+  text-decoration: none;
+}
