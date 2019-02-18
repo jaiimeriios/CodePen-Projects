@@ -20,6 +20,9 @@ Jaime Alejandro Rios
 #### :sunrise_over_mountains: Content Filter CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/qgRezE)
 
+#### :hibiscus: Hover Rolling Animation
+
+
 #### :leaves: Blocks Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
 
@@ -37,6 +40,3 @@ Jaime Alejandro Rios
 
 #### :seedling: Scroll Line Indicator
 [View CodePen](https://codepen.io/jaiimeriios/pen/Vgreep)
-
-#### :cactus: Slider Carousel
-[View CodePen]()

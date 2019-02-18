@@ -1,69 +1,43 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 body {
-  background-color: #ecf0f1;
-  font-family: 'Lato', sans-serif;
-  overflow: hidden;
-  background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4"%3E%3Cpath fill="%239C92AC" fill-opacity="0.4" d="M1 3h1v1H1V3zm2-2h1v1H3V1z"%3E%3C/path%3E%3C/svg%3E');
+  margin:0;
+  text-align:center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background:#19466d;
 }
-
+h1 {
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 3px 3px 2px #03325a;
+  margin: 4rem 0 3rem 0;
+  letter-spacing: 0.15rem;
+}
 .container {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 90vh;
+  height: 35vh;
 }
 
-.circle {
-  width: 30%;
-  height: 30vw;
-  background-image: linear-gradient(135deg, #ABDCFF 10%, #0396FF 100%);
+/* Circle Styling */
+.circle1, .circle2 {
+  width: 25%;
+  height: 25vw;
+  margin: 0 3rem;
   transition: 1s;
 }
-.circle:hover {
+.circle1{
+  background-image: linear-gradient(0deg, #03ff06 10%, #abe0ff 100%);
+}
+.circle2 {
+  background-image: linear-gradient(0deg, #ff8e03 30%, #ff5151 100%);
+}
+/* Hover Animations */
+.circle1:hover {
   border-radius: 50%;
   transform: rotate(360deg);
 }
-
-.profile {
-  color: #555;
-  position: absolute;
-  top: .5rem;
-  left: 1.5rem;
-  display: flex;
-  align-items: center;
-  font-size: 1rem;
-}
-.profile .fa-codepen {
-  margin-right: .5rem;
-}
-.profile .author a:link,
-.profile .author a:visited {
-  color: inherit;
-  text-transform: uppercase;
-  font-weight: 400;
-  text-decoration: none;
-}
-
-.footer {
-  height: 10vh;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-top: 1px solid #cdd1d6;
-  background-color: #dee1e5;
-  font-weight: 300;
-  color: #555;
-  position: relative;
-}
-.footer span {
-  margin-left: 2px;
-  font-weight: 400;
-  cursor: pointer;
-}
-.footer span a:link,
-.footer span a:visited {
-  color: currentColor;
-  text-decoration: none;
+.circle2:hover {
+  border-radius: 50%;
+  transform: rotate(-360deg);
 }
