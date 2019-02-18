@@ -20,9 +20,8 @@ Jaime Alejandro Rios
 #### :sunrise_over_mountains: Content Filter CSS
 [View CodePen](https://codepen.io/jaiimeriios/pen/qgRezE)
 
-#### :hibiscus: Hover Rolling Animation
+#### :hibiscus: Hover Rotate Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/xMMEXx)
-
 
 #### :leaves: Blocks Animation
 [View CodePen](https://codepen.io/jaiimeriios/pen/oJNqaW)
