@@ -40,3 +40,6 @@ Jaime Alejandro Rios
 
 #### :seedling: Scroll Line Indicator
 [View CodePen](https://codepen.io/jaiimeriios/pen/Vgreep)
+
+#### :tropical_fish: Zooming Background Image
+[View CodePen](https://codepen.io/jaiimeriios/pen/NomXKN)
