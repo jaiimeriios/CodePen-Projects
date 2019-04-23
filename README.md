@@ -5,7 +5,7 @@ This is a collection for my projects on CodePen
 
 Jaime Alejandro Rios
 
-*Website* - [jaiimeriios.com](http://jaiimeriios.com)
+*Website* - [jaiimeriios.com](https://jaiimeriios.com/)
 
 *CodePen* - [/jaiimeriios](https://codepen.io/jaiimeriios/)
 
